@@ -1,0 +1,3 @@
+{
+    "DBHost": "mongodb://proj-team13:team13db@node-rest-gradapp-shard-00-00-imzxv.mongodb.net:27017/test?ssl=true&replicaSet=node-rest-gradapp-shard-0&authSource=admin"
+}
